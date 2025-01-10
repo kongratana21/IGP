@@ -1,0 +1,18 @@
+ * Theme
+   + Add color Blue, Orange
+   + Auto change theme color to other application
+
+ * Name Generator
+   + Add Random Gender
+   + Add France Name
+   
+ * Phone Generator
+   + Add France Phone
+
+ * Utilities
+   + Update 2FA Generator condition
+   + Update FB Profile Downloader condition
+   + Update InfoGeneratorPlus condition
+   + Update Profile Downloader condition
+   + Update Yandex Generator condition
+   + Fix something error
