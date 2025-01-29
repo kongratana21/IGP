@@ -1,5 +1,5 @@
- * Add Yandex and Password Generator
-
- * Utilities
+* Check the license key for this tool or not.
+* Add Yandex and Password Generator
+* Utilities
    + Add Strong Password Generator
    + Fix something error
