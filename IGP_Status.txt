@@ -1,9 +1,3 @@
 What's new
-   * Check the license key for this tool or not.
-   * Add Yandex and Password Generator
-   * Utilities
-      + Add File name Translate
-      + Add Number to Word
-      + Add Strong Password Generator
-      + Add Recovery secret word
-      + Fix something error
+   * Add Screen Mirrior up to 1920p
+   * Fix something error
